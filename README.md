@@ -42,15 +42,6 @@ The calculator performs:
 - Modular Programming
 - DRY Principle
 
----
-
-## ▶ How to Run the Program
-1. Open VS Code
-2. Open calculator.py
-3. Run the file
-4. Follow the instructions on the screen
-
----
 
 ## ✅ Outcome
 This task helps in understanding how to write clean, reusable
